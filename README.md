@@ -1,2 +1,0 @@
-# classicstart
-Classic Start documentation.
